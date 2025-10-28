@@ -7,11 +7,8 @@
 ## 🛠️ 환경 설정 및 필수 파일
 
 | 파일/폴더 | 설명 | 설정 방법 |
-
 | :--- | :--- | :--- |
-
 | *.env.example** | 환경 변수 설정 파일의 예시입니다. | 이 파일을 복사하여 *.env** 파일을 생성하고, **YouTube** 및 **Gemini API Key**를 발급받아 붙여넣으세요. |
-
 | *requirements.txt** | 프로젝트에 필요한 라이브러리 목록입니다. | 다음 코드를 사용하여 **가상 환경**을 설정하고 패키지들을 다운로드하세요: <br> python -m venv venv <br> source venv/bin/activate (Linux/macOS) 또는 .\venv\Scripts\activate (Windows) <br> pip install -r requirements.txt |
 
 -----
