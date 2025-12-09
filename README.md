@@ -3,7 +3,9 @@
 이 저장소는 **AI Agent 개발**, **데이터 수집 및 분석**, 그리고 **챗봇 제작 및 배포**에 이르는 일련의 과정을 실습할 수 있도록 구성되어 있습니다.
 
 최종 결과물은 아래 레포지토리에서 확인하실 수 있습니다.
+
 [MCP Server](https://github.com/2shin0/youtube-mcp-server)
+
 [MCP Client](https://github.com/2shin0/youtube-chat)
 
 ## 환경 설정 및 필수 파일
@@ -74,7 +76,9 @@ YouTube 데이터 수집에 필요한 기초 지식 및 **MCP(Multi-Channel Proc
 This repository is designed for hands-on practice covering the entire workflow of **AI Agent Development**, **Data Collection & Analysis**, and **Chatbot Creation & Deployment**.
 
 You can find the final deliverables in the repositories below:
+
 [MCP Server](https://github.com/2shin0/youtube-mcp-server)
+
 [MCP Client](https://github.com/2shin0/youtube-chat)
 
 ## Environment Setup & Essential Files
